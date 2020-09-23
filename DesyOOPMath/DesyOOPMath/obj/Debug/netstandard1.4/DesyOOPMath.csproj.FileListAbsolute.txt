@@ -1,0 +1,16 @@
+c:\users\tc4d17\documents\visual studio 2017\Projects\DesyOOPMath\DesyOOPMath\bin\Debug\netstandard1.4\DesyOOPMath.deps.json
+c:\users\tc4d17\documents\visual studio 2017\Projects\DesyOOPMath\DesyOOPMath\bin\Debug\netstandard1.4\DesyOOPMath.dll
+c:\users\tc4d17\documents\visual studio 2017\Projects\DesyOOPMath\DesyOOPMath\bin\Debug\netstandard1.4\DesyOOPMath.pdb
+c:\users\tc4d17\documents\visual studio 2017\Projects\DesyOOPMath\DesyOOPMath\obj\Debug\netstandard1.4\DesyOOPMath.csprojResolveAssemblyReference.cache
+c:\users\tc4d17\documents\visual studio 2017\Projects\DesyOOPMath\DesyOOPMath\obj\Debug\netstandard1.4\DesyOOPMath.AssemblyInfo.cs
+c:\users\tc4d17\documents\visual studio 2017\Projects\DesyOOPMath\DesyOOPMath\obj\Debug\netstandard1.4\DesyOOPMath.dll
+c:\users\tc4d17\documents\visual studio 2017\Projects\DesyOOPMath\DesyOOPMath\obj\Debug\netstandard1.4\DesyOOPMath.pdb
+D:\Alpro\DesyOOPMath\DesyOOPMath\obj\Debug\netstandard1.4\DesyOOPMath.csprojAssemblyReference.cache
+D:\Alpro\DesyOOPMath\DesyOOPMath\obj\Debug\netstandard1.4\DesyOOPMath.csproj.CoreCompileInputs.cache
+D:\Alpro\DesyOOPMath\DesyOOPMath\obj\Debug\netstandard1.4\DesyOOPMath.AssemblyInfoInputs.cache
+D:\Alpro\DesyOOPMath\DesyOOPMath\obj\Debug\netstandard1.4\DesyOOPMath.AssemblyInfo.cs
+D:\Alpro\DesyOOPMath\DesyOOPMath\obj\Debug\netstandard1.4\DesyOOPMath.dll
+D:\Alpro\DesyOOPMath\DesyOOPMath\obj\Debug\netstandard1.4\DesyOOPMath.pdb
+D:\Alpro\DesyOOPMath\DesyOOPMath\bin\Debug\netstandard1.4\DesyOOPMath.deps.json
+D:\Alpro\DesyOOPMath\DesyOOPMath\bin\Debug\netstandard1.4\DesyOOPMath.dll
+D:\Alpro\DesyOOPMath\DesyOOPMath\bin\Debug\netstandard1.4\DesyOOPMath.pdb
