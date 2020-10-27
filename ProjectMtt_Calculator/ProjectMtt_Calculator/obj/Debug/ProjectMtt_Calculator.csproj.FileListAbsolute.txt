@@ -1,0 +1,10 @@
+C:\Users\jesselin\source\repos\ProjectMtt_Calculator\ProjectMtt_Calculator\bin\Debug\ProjectMtt_Calculator.exe.config
+C:\Users\jesselin\source\repos\ProjectMtt_Calculator\ProjectMtt_Calculator\bin\Debug\ProjectMtt_Calculator.exe
+C:\Users\jesselin\source\repos\ProjectMtt_Calculator\ProjectMtt_Calculator\bin\Debug\ProjectMtt_Calculator.pdb
+C:\Users\jesselin\source\repos\ProjectMtt_Calculator\ProjectMtt_Calculator\obj\Debug\ProjectMtt_Calculator.csprojAssemblyReference.cache
+C:\Users\jesselin\source\repos\ProjectMtt_Calculator\ProjectMtt_Calculator\obj\Debug\ProjectMtt_Calculator.CurrencyCalculator.resources
+C:\Users\jesselin\source\repos\ProjectMtt_Calculator\ProjectMtt_Calculator\obj\Debug\ProjectMtt_Calculator.Properties.Resources.resources
+C:\Users\jesselin\source\repos\ProjectMtt_Calculator\ProjectMtt_Calculator\obj\Debug\ProjectMtt_Calculator.csproj.GenerateResource.cache
+C:\Users\jesselin\source\repos\ProjectMtt_Calculator\ProjectMtt_Calculator\obj\Debug\ProjectMtt_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\jesselin\source\repos\ProjectMtt_Calculator\ProjectMtt_Calculator\obj\Debug\ProjectMtt_Calculator.exe
+C:\Users\jesselin\source\repos\ProjectMtt_Calculator\ProjectMtt_Calculator\obj\Debug\ProjectMtt_Calculator.pdb
