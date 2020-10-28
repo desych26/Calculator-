@@ -1,0 +1,26 @@
+C:\Users\user\Downloads\OIE\MTT\CalculatorPlus\CalculatorPlus\bin\Debug\CalculatorPlus.exe.config
+C:\Users\user\Downloads\OIE\MTT\CalculatorPlus\CalculatorPlus\bin\Debug\CalculatorPlus.exe
+C:\Users\user\Downloads\OIE\MTT\CalculatorPlus\CalculatorPlus\bin\Debug\CalculatorPlus.pdb
+C:\Users\user\Downloads\OIE\MTT\CalculatorPlus\CalculatorPlus\obj\Debug\CalculatorPlus.Form1.resources
+C:\Users\user\Downloads\OIE\MTT\CalculatorPlus\CalculatorPlus\obj\Debug\CalculatorPlus.GeneralCalculator.resources
+C:\Users\user\Downloads\OIE\MTT\CalculatorPlus\CalculatorPlus\obj\Debug\CalculatorPlus.Properties.Resources.resources
+C:\Users\user\Downloads\OIE\MTT\CalculatorPlus\CalculatorPlus\obj\Debug\CalculatorPlus.csproj.GenerateResource.cache
+C:\Users\user\Downloads\OIE\MTT\CalculatorPlus\CalculatorPlus\obj\Debug\CalculatorPlus.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\OIE\MTT\CalculatorPlus\CalculatorPlus\obj\Debug\CalculatorPlus.exe
+C:\Users\user\Downloads\OIE\MTT\CalculatorPlus\CalculatorPlus\obj\Debug\CalculatorPlus.pdb
+C:\Users\user\Downloads\OIE\MTT\CalculatorPlus\CalculatorPlus\obj\Debug\CalculatorPlus.csprojAssemblyReference.cache
+C:\Users\user\Downloads\OIE\MTT\CalculatorPlus\CalculatorPlus\obj\Debug\CalculatorPlus.CurrencyCalculator.resources
+C:\Users\user\Downloads\OIE\MTT\CalculatorPlus\CalculatorPlus\obj\Debug\CalculatorPlus.PhysicsCalculator.resources
+D:\Semester 5\Manajemen Teknologi Telematika\Week 10\CalculatorPlus\CalculatorPlus\bin\Debug\CalculatorPlus.exe.config
+D:\Semester 5\Manajemen Teknologi Telematika\Week 10\CalculatorPlus\CalculatorPlus\bin\Debug\CalculatorPlus.exe
+D:\Semester 5\Manajemen Teknologi Telematika\Week 10\CalculatorPlus\CalculatorPlus\bin\Debug\CalculatorPlus.pdb
+D:\Semester 5\Manajemen Teknologi Telematika\Week 10\CalculatorPlus\CalculatorPlus\obj\Debug\CalculatorPlus.csprojAssemblyReference.cache
+D:\Semester 5\Manajemen Teknologi Telematika\Week 10\CalculatorPlus\CalculatorPlus\obj\Debug\CalculatorPlus.CurrencyCalculator.resources
+D:\Semester 5\Manajemen Teknologi Telematika\Week 10\CalculatorPlus\CalculatorPlus\obj\Debug\CalculatorPlus.Form1.resources
+D:\Semester 5\Manajemen Teknologi Telematika\Week 10\CalculatorPlus\CalculatorPlus\obj\Debug\CalculatorPlus.GeneralCalculator.resources
+D:\Semester 5\Manajemen Teknologi Telematika\Week 10\CalculatorPlus\CalculatorPlus\obj\Debug\CalculatorPlus.PhysicsCalculator.resources
+D:\Semester 5\Manajemen Teknologi Telematika\Week 10\CalculatorPlus\CalculatorPlus\obj\Debug\CalculatorPlus.Properties.Resources.resources
+D:\Semester 5\Manajemen Teknologi Telematika\Week 10\CalculatorPlus\CalculatorPlus\obj\Debug\CalculatorPlus.csproj.GenerateResource.cache
+D:\Semester 5\Manajemen Teknologi Telematika\Week 10\CalculatorPlus\CalculatorPlus\obj\Debug\CalculatorPlus.csproj.CoreCompileInputs.cache
+D:\Semester 5\Manajemen Teknologi Telematika\Week 10\CalculatorPlus\CalculatorPlus\obj\Debug\CalculatorPlus.exe
+D:\Semester 5\Manajemen Teknologi Telematika\Week 10\CalculatorPlus\CalculatorPlus\obj\Debug\CalculatorPlus.pdb
